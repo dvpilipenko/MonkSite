@@ -1,0 +1,12 @@
+<svg width="136" height="285" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+  </g>
+ </g>
+ <g >
+  <title>Layer 1</title>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_1" y2="144.75" x2="0.75" y1="0.75" x1="133.75" stroke-width="12" stroke="#fff" fill="none"/>
+  <line transform="rotate(0.2739919424057007 68.37522888184739,214.12516784668003) " stroke="#fff" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_3" y2="283.75" x2="135.75" y1="144.50032" x1="1.00045" stroke-width="12" fill="none"/>
+ </g>
+</svg>
